@@ -1,0 +1,39 @@
+# 🐺 LXR Hitmarker - Git Ignore
+# wolves.land | The Land of Wolves
+
+# Temporary Files
+*.tmp
+*.temp
+*.bak
+*.backup
+
+# OS Files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor Files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Logs
+*.log
+
+# Development
+node_modules/
+.env
+
+# Build Artifacts
+dist/
+build/
+
+# Test Files
+test/
+tests/
+
+# Personal Notes
+notes.txt
+TODO.txt
